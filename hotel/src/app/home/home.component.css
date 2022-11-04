@@ -19,3 +19,11 @@
     opacity: 0.2;
     z-index: -1;
 }
+
+.fuente{
+    font-family: SuisseBPIntl, sans-serif; 
+    font-size: 14px; 
+    color: rgb(65, 173, 73); 
+    font-weight: bold
+}
+
