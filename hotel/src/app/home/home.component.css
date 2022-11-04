@@ -1,0 +1,7 @@
+.banner{
+    background-image: url('../../assets/img/bannerhotel.jpg');
+    background-position-x: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 10% 30% 40% 10%;
+}
