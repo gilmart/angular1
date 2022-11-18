@@ -1,0 +1,53 @@
+
+.prefooter{
+    background-size: 100%;
+    margin-bottom: auto;
+    position: relative;
+    margin-left: 15%;
+}
+
+
+.imagen{
+    position:relative;
+    margin-bottom: 50px;
+    z-index: 1;
+    top: -73px;
+    left: 0px;
+    margin-right:10% ;
+    
+}
+
+h2{
+    color: white;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 10%;
+
+
+}
+
+p{
+    color: white;
+    font-weight: lighter;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 8%;
+}
+
+
+
+
+p,h2{
+    text-align: right;
+}
+
+
+
+

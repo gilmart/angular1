@@ -9,7 +9,9 @@ import { HomeComponent } from './home/home.component';
 import { FormareservaComponent } from './formareserva/formareserva.component';
 import { HabitacionesComponent } from './habitaciones/habitaciones.component';
 import { DescripcionComponent } from './descripcion/descripcion.component';
-import {HttpClientModule} from '@angular/common/http'
+import {HttpClientModule} from '@angular/common/http';
+import { PrefooterComponent } from './prefooter/prefooter.component';
+import { BannerhabitacionComponent } from './bannerhabitacion/bannerhabitacion.component'
 
 @NgModule({
   declarations: [
@@ -19,7 +21,9 @@ import {HttpClientModule} from '@angular/common/http'
     HomeComponent,
     FormareservaComponent,
     HabitacionesComponent,
-    DescripcionComponent
+    DescripcionComponent,
+    PrefooterComponent,
+    BannerhabitacionComponent
   ],
   imports: [
     BrowserModule,

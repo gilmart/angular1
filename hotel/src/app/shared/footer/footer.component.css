@@ -1,5 +1,7 @@
 .footer{
     color: antiquewhite;
+    font-size: 13px;
+    letter-spacing: 1px;
 
 }
 
@@ -29,10 +31,29 @@ hr{
     margin-top: 60%;
 }
 
+h5{
+    font-weight: bold;
+    font-family: 'Maven Pro', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    letter-spacing: 3px;
+
+}
 
 
+foot{
+    margin-bottom: 10%;
+    margin-top: 10%; 
+}
 
+a{
+    text-decoration: none;
+color: antiquewhite;
 
+}
 
 
 /*
