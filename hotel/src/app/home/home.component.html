@@ -26,13 +26,15 @@
 
 
 <section>
-    <div class="container">
+    <div class="container ">
         
-        <div class="row row-cols-1 row-cols-md-2">
+        <div class="row row-cols-1 row-cols-md-2 estilohab">
             <div class="col " *ngFor="let habitacion of habitaciones">
-                <div class="card h-100 shadow">
+                <div class="card h-100 shadow  ">
                     <img src={{habitacion.fotografias[0]}} alt="foto" class="img-fluid w-100 h-100">
                     <h3 class="text-center fw-bold">{{habitacion.nombre}}</h3>
+                    <p class="text-center">{{habitacion.descripcion}}</p>
+
 
                 </div>
             </div>
